@@ -1,0 +1,6 @@
+C:\Users\Harun\Desktop\C# Examples\2021\MVC_TemplateProject\MVC_TemplateProject\MVC_TemplateProject.Core\bin\Debug\MVC_TemplateProject.Core.dll
+C:\Users\Harun\Desktop\C# Examples\2021\MVC_TemplateProject\MVC_TemplateProject\MVC_TemplateProject.Core\bin\Debug\MVC_TemplateProject.Core.pdb
+C:\Users\Harun\Desktop\C# Examples\2021\MVC_TemplateProject\MVC_TemplateProject\MVC_TemplateProject.Core\obj\Debug\MVC_TemplateProject.Core.csprojAssemblyReference.cache
+C:\Users\Harun\Desktop\C# Examples\2021\MVC_TemplateProject\MVC_TemplateProject\MVC_TemplateProject.Core\obj\Debug\MVC_TemplateProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\C# Examples\2021\MVC_TemplateProject\MVC_TemplateProject\MVC_TemplateProject.Core\obj\Debug\MVC_TemplateProject.Core.dll
+C:\Users\Harun\Desktop\C# Examples\2021\MVC_TemplateProject\MVC_TemplateProject\MVC_TemplateProject.Core\obj\Debug\MVC_TemplateProject.Core.pdb

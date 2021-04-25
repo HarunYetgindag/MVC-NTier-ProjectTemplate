@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Filters\Auth.cs" />
     <Compile Include="Filters\AuthAdmin.cs" />
     <Compile Include="Filters\ExceptionFilter.cs" />
@@ -121,7 +122,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
+    <Folder Include="Views\Home\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MVC_TemplateProject.BusinessLayer\MVC_TemplateProject.BusinessLayer.csproj">

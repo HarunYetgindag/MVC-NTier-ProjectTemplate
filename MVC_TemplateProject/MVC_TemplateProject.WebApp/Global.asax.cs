@@ -1,3 +1,5 @@
+using MVC_TemplateProject.Common;
+using MVC_TemplateProject.WebApp.Init;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +15,8 @@ namespace MVC_TemplateProject.WebApp
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+
+            App.Common = new WebCommon(); // App ayaða kalktýðýnda newlemesi için.
         }
     }
 }

@@ -22,5 +22,10 @@ namespace MVC_TemplateProject.BusinessLayer.Result
         {
             Errors.Add(new ErrorMessageObj() { Code = code, Message = message });
         }
+
+        internal void AddError(object usernameAlreadyExists, string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
