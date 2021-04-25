@@ -104,5 +104,10 @@ namespace MVC_TemplateProject.WebApp.Controllers
         }
         #endregion
 
+        public ActionResult HasError()
+        {
+            return View();
+        }
+
     }
 }
