@@ -1,6 +1,7 @@
 # MVC-NTier-ProjectTemplate
 
->  Örnek bir projeden bir başka proje için alt yapı olarak kullanılması amacıyla sadeleştirilmiştir. Kullanılan temeller -> 
+>  Örnek bir projeden bir başka proje için alt yapı olarak kullanılması amacıyla sadeleştirilmiştir. 
+>  Kullanılan temeller -> 
 
 - Data Annotations, Exception Filter, Auth Filter, Generic Repository, Singleton (context), Code First gibi teknolojiler ve yöntemler kullanılmıştır. Örnek olması için hazır olarak 
 Login ve Register hazır olarak gelmektedir.
